@@ -1,0 +1,27 @@
+c:\users\cansu ecevit\documents\visual studio 2015\Projects\Proje2\Proje2\bin\Debug\Proje2.exe.config
+c:\users\cansu ecevit\documents\visual studio 2015\Projects\Proje2\Proje2\bin\Debug\Proje2.exe
+c:\users\cansu ecevit\documents\visual studio 2015\Projects\Proje2\Proje2\bin\Debug\Proje2.pdb
+c:\users\cansu ecevit\documents\visual studio 2015\Projects\Proje2\Proje2\obj\Debug\Proje2.csprojResolveAssemblyReference.cache
+c:\users\cansu ecevit\documents\visual studio 2015\Projects\Proje2\Proje2\obj\Debug\Proje2.Properties.Resources.resources
+c:\users\cansu ecevit\documents\visual studio 2015\Projects\Proje2\Proje2\obj\Debug\Proje2.csproj.GenerateResource.Cache
+c:\users\cansu ecevit\documents\visual studio 2015\Projects\Proje2\Proje2\obj\Debug\Proje2.exe
+c:\users\cansu ecevit\documents\visual studio 2015\Projects\Proje2\Proje2\obj\Debug\Proje2.pdb
+c:\users\cansu ecevit\documents\visual studio 2015\Projects\Proje2\Proje2\obj\Debug\Proje2.Form1.resources
+C:\Users\Cansu Ecevit\Desktop\Proje2\Proje2\bin\Debug\Proje2.exe.config
+C:\Users\Cansu Ecevit\Desktop\Proje2\Proje2\obj\Debug\Proje2.exe
+C:\Users\Cansu Ecevit\Desktop\Proje2\Proje2\obj\Debug\Proje2.pdb
+C:\Users\Cansu Ecevit\Desktop\Proje2\Proje2\bin\Debug\Proje2.exe
+C:\Users\Cansu Ecevit\Desktop\Proje2\Proje2\bin\Debug\Proje2.pdb
+C:\Users\Cansu Ecevit\Desktop\Proje2\Proje2\obj\Debug\Proje2.csprojResolveAssemblyReference.cache
+C:\Users\Cansu Ecevit\Desktop\Proje2\Proje2\obj\Debug\Proje2.Form1.resources
+C:\Users\Cansu Ecevit\Desktop\Proje2\Proje2\obj\Debug\Proje2.Properties.Resources.resources
+C:\Users\Cansu Ecevit\Desktop\Proje2\Proje2\obj\Debug\Proje2.csproj.GenerateResource.Cache
+E:\Proje2\Proje2\bin\Debug\Proje2.exe.config
+E:\Proje2\Proje2\bin\Debug\Proje2.exe
+E:\Proje2\Proje2\bin\Debug\Proje2.pdb
+E:\Proje2\Proje2\obj\Debug\Proje2.csprojResolveAssemblyReference.cache
+E:\Proje2\Proje2\obj\Debug\Proje2.Form1.resources
+E:\Proje2\Proje2\obj\Debug\Proje2.Properties.Resources.resources
+E:\Proje2\Proje2\obj\Debug\Proje2.csproj.GenerateResource.Cache
+E:\Proje2\Proje2\obj\Debug\Proje2.exe
+E:\Proje2\Proje2\obj\Debug\Proje2.pdb
